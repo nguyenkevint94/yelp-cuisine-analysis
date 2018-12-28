@@ -1,0 +1,2 @@
+api_key = "1hIn8DIch8xm_Id8SwFcAoWQh416uFzcJkCeH_l51nrZB1FH9gVGL8A9GlqSOJldLQXsbSExBraLsYdREEdG5ehs5XbX0o3q0tYwdskk3HamVlr4w8-wkh3ymPh8W3Yx"
+plotly_key = "cb2UnRgzm6BOJqfj37jN"
